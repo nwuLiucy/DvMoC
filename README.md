@@ -3,4 +3,4 @@
 ## 执行文件
 DvMoC.py
 ## 演示视频
-demo.mp
+demo.mp4
